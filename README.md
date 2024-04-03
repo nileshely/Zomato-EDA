@@ -1,4 +1,4 @@
-# Zomato EDA
+# Zomato Exploratory Data Analysis
 
 **Zomato Exploratory Data Analysis (EDA) Report**
 
